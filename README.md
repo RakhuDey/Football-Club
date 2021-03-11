@@ -21,3 +21,7 @@
 # it is dynamic api use for any one
 
 # some picture import for google and other sources
+
+# This is site ........
+
+# https://football-club-info-rakhu-dey.netlify.app/

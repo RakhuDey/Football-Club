@@ -19,7 +19,7 @@ const Home = () => {
       </div>
       <div className="display-home">
         {teams.map((team) => (
-          <Team team={team}></Team>
+          <Team team={team} key={team.idTeam}></Team>
         ))}
       </div>
     </div>

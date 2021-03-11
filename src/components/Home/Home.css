@@ -1,0 +1,19 @@
+.display-home {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+  background-color: #192724;
+  padding: 40px;
+  text-align: center;
+}
+.home-img img {
+  width: 100%;
+  height: 350px;
+}
+@media screen and (max-width: 600px) {
+  .display-home {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}

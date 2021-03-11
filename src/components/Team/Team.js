@@ -16,7 +16,7 @@ const Team = (props) => {
       <h3 className="team-name">{strTeam}</h3>
       <p className="type">Sports type:{strSport}</p>
       <button className="button" onClick={() => handleClick(idTeam)}>
-        Explore
+        Explore <i class="fas fa-long-arrow-alt-right"></i>
       </button>
     </div>
   );

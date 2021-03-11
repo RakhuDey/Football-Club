@@ -15,7 +15,7 @@ const Home = () => {
   return (
     <div>
       <div className="home-img">
-        <img src={stadiun}></img>
+        <img src={stadiun} alt=""></img>
       </div>
       <div className="display-home">
         {teams.map((team) => (

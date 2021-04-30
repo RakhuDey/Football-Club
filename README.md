@@ -1,27 +1,27 @@
-# Web site name: Football-club
+## Website name: Football-club
+## Website description
+  This is a football-club website. U can see this web pages dynamically description <br/>
+  and name of club or another details. And u can see this stadium picture with background.
+  This site is complete React-app. And also used Bootstrap and material-ui.This site is responsive for Mobile. <br/>
+  ⇨ Link  https://football-club-info-rakhu-dey.netlify.app/
 
-# This site is complete React-app
+## Contract with me 
+Email: rakhu_dey@yahoo.com <br/> 
+GitHub: https://github.com/RakhuDey <br/> 
+Facebook: https://www.facebook.com/rahul.rakhu69 <br/>
+LinkedIn: https://www.linkedin.com/in/rakhu-dey-678507148/
 
-# And also used Bootstrap and material-ui
+## Home data API for club is....
 
-# This site is responsive for Mobile
+https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League
 
-# media Queries is used for responsive
+## Detail Data API for details club is....
 
-# Data:
+https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=${idTeam}
 
-# Home data API for club is....
+### it is dynamic api use for any one
 
-# https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League
+### some picture import for google and other sources
 
-# Detail Data API for details club is....
 
-# https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=${idTeam}
-
-# it is dynamic api use for any one
-
-# some picture import for google and other sources
-
-# This is site ........
-
-# https://football-club-info-rakhu-dey.netlify.app/
+https://football-club-info-rakhu-dey.netlify.app/

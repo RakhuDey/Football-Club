@@ -22,6 +22,3 @@ https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=${idTeam}
 ### it is dynamic api use for any one
 
 ### some picture import for google and other sources
-
-
-https://football-club-info-rakhu-dey.netlify.app/
